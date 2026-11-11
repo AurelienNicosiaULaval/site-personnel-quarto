@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "declaration-ia.html",
+    "href": "declaration-ia.html",
+    "title": "Déclaration IA",
+    "section": "",
+    "text": "Indiquer ici les usages significatifs de l’IA générative qui ont influencé le texte, la structure, le code ou le design du site.\nPour chaque usage significatif:\n\noutil utilisé;\ntâche demandée;\néléments conservés;\nvérifications effectuées;\nmodifications apportées.\n\nSi aucun usage significatif n’a influencé le site, écrire:\n\nAucun usage significatif de l’IA générative n’a influencé le site remis."
+  },
+  {
+    "objectID": "parcours.html",
+    "href": "parcours.html",
+    "title": "Parcours et compétences",
+    "section": "",
+    "text": "Décrire brièvement le parcours ou les intérêts professionnels."
+  },
+  {
+    "objectID": "parcours.html#parcours",
+    "href": "parcours.html#parcours",
+    "title": "Parcours et compétences",
+    "section": "",
+    "text": "Décrire brièvement le parcours ou les intérêts professionnels."
+  },
+  {
+    "objectID": "parcours.html#compétences",
+    "href": "parcours.html#compétences",
+    "title": "Parcours et compétences",
+    "section": "Compétences",
+    "text": "Compétences\n\nR et tidyverse\nQuarto\nGit et GitHub\nVisualisation de données"
+  },
+  {
+    "objectID": "parcours.html#expériences-ou-formations",
+    "href": "parcours.html#expériences-ou-formations",
+    "title": "Parcours et compétences",
+    "section": "Expériences ou formations",
+    "text": "Expériences ou formations\nAjouter uniquement les éléments que vous acceptez de rendre publics."
+  },
+  {
+    "objectID": "realisations.html",
+    "href": "realisations.html",
+    "title": "Réalisations",
+    "section": "",
+    "text": "Contexte:\nProduction:\nOutils:\nValidation ou vérification:\nCe que cette réalisation démontre:\nLimite ou amélioration possible:\nTrace source dans le portfolio:\nLien public, seulement si autorisé:"
+  },
+  {
+    "objectID": "realisations.html#réalisation-1-trace-du-portfolio",
+    "href": "realisations.html#réalisation-1-trace-du-portfolio",
+    "title": "Réalisations",
+    "section": "",
+    "text": "Contexte:\nProduction:\nOutils:\nValidation ou vérification:\nCe que cette réalisation démontre:\nLimite ou amélioration possible:\nTrace source dans le portfolio:\nLien public, seulement si autorisé:"
+  },
+  {
+    "objectID": "realisations.html#réalisation-2-projet-ou-module-avancé",
+    "href": "realisations.html#réalisation-2-projet-ou-module-avancé",
+    "title": "Réalisations",
+    "section": "Réalisation 2: projet ou module avancé",
+    "text": "Réalisation 2: projet ou module avancé\nContexte:\nProduction:\nOutils:\nValidation ou vérification:\nCe que cette réalisation démontre:\nLimite ou amélioration possible:\nTrace source dans le projet ou le module:\nLien public, seulement si autorisé:"
+  },
+  {
+    "objectID": "realisations.html#justification-technique-courte",
+    "href": "realisations.html#justification-technique-courte",
+    "title": "Réalisations",
+    "section": "Justification technique courte",
+    "text": "Justification technique courte\nExpliquer un choix technique important: structure du dépôt, validation, dépendances, rendu Quarto, visualisation, fonction, test ou publication GitHub Pages.\nPour STT-6230, ajouter une dimension plus avancée: comparaison d’approches, validation supplémentaire, analyse de performance, limite méthodologique ou justification d’architecture."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Prénom Nom",
+    "section": "",
+    "text": "Court paragraphe de présentation académique ou professionnelle."
+  },
+  {
+    "objectID": "index.html#présentation",
+    "href": "index.html#présentation",
+    "title": "Prénom Nom",
+    "section": "",
+    "text": "Court paragraphe de présentation académique ou professionnelle."
+  },
+  {
+    "objectID": "index.html#intérêts",
+    "href": "index.html#intérêts",
+    "title": "Prénom Nom",
+    "section": "Intérêts",
+    "text": "Intérêts\n\nScience des données\nProgrammation R\nVisualisation"
+  },
+  {
+    "objectID": "index.html#liens",
+    "href": "index.html#liens",
+    "title": "Prénom Nom",
+    "section": "Liens",
+    "text": "Liens\n\nGitHub: https://github.com/identifiant\nSite publié: https://identifiant.github.io/nom-du-depot/\nPortfolio public ou trace publique, si autorisé:"
+  }
+]

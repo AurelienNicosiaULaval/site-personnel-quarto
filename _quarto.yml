@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+lang: fr
+
+website:
+  title: "Prénom Nom"
+  navbar:
+    left:
+      - text: "Accueil"
+        href: index.qmd
+      - text: "Parcours"
+        href: parcours.qmd
+      - text: "Réalisations"
+        href: realisations.qmd
+      - text: "IA"
+        href: declaration-ia.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    embed-resources: true

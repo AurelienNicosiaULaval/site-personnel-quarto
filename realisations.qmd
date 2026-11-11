@@ -1,0 +1,46 @@
+---
+title: "Réalisations"
+embed-resources: true
+---
+
+## Réalisation 1: trace du portfolio
+
+Contexte:
+
+Production:
+
+Outils:
+
+Validation ou vérification:
+
+Ce que cette réalisation démontre:
+
+Limite ou amélioration possible:
+
+Trace source dans le portfolio:
+
+Lien public, seulement si autorisé:
+
+## Réalisation 2: projet ou module avancé
+
+Contexte:
+
+Production:
+
+Outils:
+
+Validation ou vérification:
+
+Ce que cette réalisation démontre:
+
+Limite ou amélioration possible:
+
+Trace source dans le projet ou le module:
+
+Lien public, seulement si autorisé:
+
+## Justification technique courte
+
+Expliquer un choix technique important: structure du dépôt, validation, dépendances, rendu Quarto, visualisation, fonction, test ou publication GitHub Pages.
+
+Pour STT-6230, ajouter une dimension plus avancée: comparaison d’approches, validation supplémentaire, analyse de performance, limite méthodologique ou justification d’architecture.

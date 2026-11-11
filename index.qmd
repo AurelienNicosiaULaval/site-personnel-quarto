@@ -1,0 +1,20 @@
+---
+title: "Prénom Nom"
+embed-resources: true
+---
+
+## Présentation
+
+Court paragraphe de présentation académique ou professionnelle.
+
+## Intérêts
+
+- Science des données
+- Programmation R
+- Visualisation
+
+## Liens
+
+- GitHub: <https://github.com/identifiant>
+- Site publié: <https://identifiant.github.io/nom-du-depot/>
+- Portfolio public ou trace publique, si autorisé: <lien>

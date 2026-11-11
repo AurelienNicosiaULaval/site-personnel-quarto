@@ -1,0 +1,19 @@
+---
+title: "Parcours et compétences"
+embed-resources: true
+---
+
+## Parcours
+
+Décrire brièvement le parcours ou les intérêts professionnels.
+
+## Compétences
+
+- R et tidyverse
+- Quarto
+- Git et GitHub
+- Visualisation de données
+
+## Expériences ou formations
+
+Ajouter uniquement les éléments que vous acceptez de rendre publics.
